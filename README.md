@@ -42,6 +42,11 @@ Try simple UI styling
 
 Build confidence before making a professional portfolio
 
+🔗 Live Demo
+
+Hosted on Netlify:
+👉 https://anittasimpleportfolio.netlify.app
+
 📌 How to View the Project
 
 Download or clone the repository
